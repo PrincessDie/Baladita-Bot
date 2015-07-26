@@ -1684,7 +1684,7 @@
             },
 
             clearchatCommand: {
-                command: ['bostejarchat', 'deletarchat']
+                command: ['bostejarchat', 'deletarchat'],
                 rank: 'bouncer',
                 type: 'exact',
                 functionality: function (chat, cmd) {
